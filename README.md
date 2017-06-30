@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-KFC , Mk , yabusi 
+KFC , Mk , sabusi 
 # Student ID
 57122420531 
 # Name 
